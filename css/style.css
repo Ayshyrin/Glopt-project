@@ -1,0 +1,63 @@
+.border-dots {
+     border-right-style: dotted;
+     opacity: 75%;
+}
+
+.border-orange {
+    border-color: #EC644C;
+}
+
+.bg-image {
+    background-image: url(../img/main_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image2 {
+    background-image: url(../img/china.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image3 {
+    background-image: url(../img/main_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-gray {
+    background-color: #F3F3F3;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.btn-orange {
+    background-color: #EC644C;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-orange:hover {
+    background-color: rgba(255, 90, 61, 0.63);
+    cursor: pointer;
+}
+
+.text-orange {
+    color: #EC644C;
+}
+
+a {
+    color: white;
+    transition: 0.2s; 
+}
+a:hover {
+    color: #EC644C;
+    cursor: pointer;
+}
+
+.opacity {
+    opacity: 75%;
+}
+
